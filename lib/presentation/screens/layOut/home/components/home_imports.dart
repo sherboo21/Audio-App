@@ -1,0 +1,14 @@
+export 'package:audioplayers/audioplayers.dart';
+export 'package:easy_localization/easy_localization.dart';
+export 'package:flutter_screenutil/flutter_screenutil.dart';
+export 'package:task/presentation/screens/layOut/home/components/audio_player.dart';
+export 'package:task/presentation/screens/layOut/home/components/likes_item.dart';
+export 'package:task/presentation/widgets/custom_app_bar.dart';
+export 'package:task/presentation/widgets/custom_text.dart';
+export 'package:task/utils/app_extentions.dart';
+export 'package:task/utils/app_size.dart';
+export 'package:task/utils/app_strings.dart';
+export 'package:svg_flutter/svg.dart';
+export '../../../../../config/theme/app_colors.dart';
+export '../../../../../utils/app_imgs.dart';
+export 'likes_model.dart';
